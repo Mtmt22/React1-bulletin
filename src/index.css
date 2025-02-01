@@ -13,7 +13,7 @@
 }
 
 ul {
-  list-style: none;
+  list-style: none; /*点を消す*/
   text-align: left;
   padding: 0;
   margin: 0;
